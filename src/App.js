@@ -13,6 +13,7 @@ const sections = [
   { title: "DevOps", url: "#" },
 ];
 
+
 // TODO remove, this demo shouldn't need to reset the theme.
 const Blog = () => {
   const [mainFeaturedPost, setMainFeaturedPost] = useState([]);
